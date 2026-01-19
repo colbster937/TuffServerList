@@ -1,10 +1,10 @@
-§cTuffNET|wss://tuff.ws|all compatible minecraft server. chill staff|https://cdn.discordapp.com/icons/1365166496417845308/fc75dffcfcf807c500c7be53805ae9ac.webp|Survival, Oneblock, PVP|1.12.2, 1.21.4, 1.8.8
+§cTuffNET§r|wss://tuff.ws|all compatible minecraft server. chill staff|https://cdn.discordapp.com/icons/1365166496417845308/fc75dffcfcf807c500c7be53805ae9ac.webp|Survival, Oneblock, PvP|1.12.2, 1.21.4, 1.8.8
 
 Radiant Network|wss://eagler.radiantnet.club|A fun MC community with unique gms|Survival,Anarchy,Practice,and BoxPvP|1.8.x - 1.21.x
 
-§4§l§oNEXO§f§l§oMC §4§l§k|wss://nexomc.org|§4§c§71.8x - 1.21x §8 §4§L§oNEXO§f§l§oMC §8» §7discord.gg/nexomc §c§4§f§k|§c§k|§F§k|§fBuy ranks and perks at §8→ §4§nstore.nexomc.org§c §f§k§c§k§f§k|Icon Will Be Provided Below|Survival,Practice, More soon|§f 1.8-1.21 §4§l§k
+§e§lCHAOS§f§lCLUB§r|wss://chaosmc.club|§8§l» §9§ldiscord.gg/chaosclub§r|WildKits,Practice,BoxPvP,Survival|1.16.x - 1.21.x
 
-§4Cheeseburger NW§r|wss://play.cburger.net|A Cheesey server|igtoolongtopost|Skyblock,Lifesteal,PVP|1.8.8 - 1.21.5
+§4Cheeseburger NW§r|wss://play.cburger.net|A Cheesey server|igtoolongtopost|Skyblock,Lifesteal,PvP|1.8.8 - 1.21.5
 
 §b§lWebMC§r|wss://play.webmc.fun|The official WebMC Network! - dsc.webmc.fun|https://icons.webmc.fun/webmcgreen.png|Oneblock|1.12.2
 
